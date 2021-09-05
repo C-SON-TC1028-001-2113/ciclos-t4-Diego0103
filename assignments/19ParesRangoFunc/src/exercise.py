@@ -12,7 +12,6 @@ def pares(num1,num2):
         for i in range(num2+1,num1+1,2):
             print(i)
             
-
 def main():
     valor1=int(input("Valor 1: "))
     valor2=int(input("Valor 2: "))
